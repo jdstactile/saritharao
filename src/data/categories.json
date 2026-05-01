@@ -1,0 +1,268 @@
+[
+  {
+    "id": "73",
+    "slug": "archive",
+    "name": "Archive",
+    "parent": null,
+    "description": ""
+  },
+  {
+    "id": "45",
+    "slug": "art-design-and-craft",
+    "name": "Art, Design and Craft",
+    "parent": null,
+    "description": ""
+  },
+  {
+    "id": "32",
+    "slug": "books",
+    "name": "Books",
+    "parent": null,
+    "description": ""
+  },
+  {
+    "id": "46",
+    "slug": "cinema",
+    "name": "Cinema",
+    "parent": null,
+    "description": ""
+  },
+  {
+    "id": "49",
+    "slug": "contemporary-art-and-illustration",
+    "name": "Contemporary Art and Illustration",
+    "parent": "art-design-and-craft",
+    "description": "part of Art, Design and Craft"
+  },
+  {
+    "id": "33",
+    "slug": "cinema-english",
+    "name": "English",
+    "parent": "cinema",
+    "description": ""
+  },
+  {
+    "id": "47",
+    "slug": "fiction",
+    "name": "Fiction",
+    "parent": null,
+    "description": ""
+  },
+  {
+    "id": "69",
+    "slug": "fiction-books",
+    "name": "Fiction",
+    "parent": "books",
+    "description": ""
+  },
+  {
+    "id": "51",
+    "slug": "folk-art-craft-weaves",
+    "name": "Folk Art, Craft &amp; Weaves",
+    "parent": "art-design-and-craft",
+    "description": "part of Art, Design and Craft"
+  },
+  {
+    "id": "24",
+    "slug": "food",
+    "name": "Food",
+    "parent": null,
+    "description": ""
+  },
+  {
+    "id": "36",
+    "slug": "cinema-hindi",
+    "name": "Hindi",
+    "parent": "cinema",
+    "description": ""
+  },
+  {
+    "id": "57",
+    "slug": "indian-cinema",
+    "name": "Indian Cinema",
+    "parent": "cinema",
+    "description": ""
+  },
+  {
+    "id": "75",
+    "slug": "journal",
+    "name": "Journal",
+    "parent": "fiction",
+    "description": ""
+  },
+  {
+    "id": "37",
+    "slug": "cinema-marathi",
+    "name": "Marathi",
+    "parent": "cinema",
+    "description": ""
+  },
+  {
+    "id": "78",
+    "slug": "movie-review",
+    "name": "Movie Review",
+    "parent": null,
+    "description": ""
+  },
+  {
+    "id": "70",
+    "slug": "non-fiction",
+    "name": "Non-Fiction",
+    "parent": "books",
+    "description": ""
+  },
+  {
+    "id": "59",
+    "slug": "others",
+    "name": "Others",
+    "parent": null,
+    "description": ""
+  },
+  {
+    "id": "18",
+    "slug": "people",
+    "name": "People",
+    "parent": null,
+    "description": ""
+  },
+  {
+    "id": "74",
+    "slug": "people-archive",
+    "name": "People Archive",
+    "parent": "people",
+    "description": ""
+  },
+  {
+    "id": "50",
+    "slug": "photography",
+    "name": "Photography",
+    "parent": "art-design-and-craft",
+    "description": "part of Art, Design and Craft"
+  },
+  {
+    "id": "28",
+    "slug": "places",
+    "name": "Places",
+    "parent": null,
+    "description": ""
+  },
+  {
+    "id": "65",
+    "slug": "profile",
+    "name": "Profile",
+    "parent": "people",
+    "description": ""
+  },
+  {
+    "id": "48",
+    "slug": "sms",
+    "name": "SMS",
+    "parent": "art-design-and-craft",
+    "description": ""
+  },
+  {
+    "id": "63",
+    "slug": "snippets",
+    "name": "Snippets",
+    "parent": "others",
+    "description": ""
+  },
+  {
+    "id": "68",
+    "slug": "south-asia",
+    "name": "South Asia",
+    "parent": "places",
+    "description": ""
+  },
+  {
+    "id": "71",
+    "slug": "spaces",
+    "name": "Spaces",
+    "parent": null,
+    "description": ""
+  },
+  {
+    "id": "58",
+    "slug": "talking-movies",
+    "name": "Talking Movies",
+    "parent": "cinema",
+    "description": ""
+  },
+  {
+    "id": "38",
+    "slug": "cinema-tamizh",
+    "name": "Tamizh",
+    "parent": "cinema",
+    "description": ""
+  },
+  {
+    "id": "54",
+    "slug": "the-world-of-books",
+    "name": "The World Of Books",
+    "parent": "books",
+    "description": ""
+  },
+  {
+    "id": "55",
+    "slug": "translation",
+    "name": "Translation",
+    "parent": "books",
+    "description": ""
+  },
+  {
+    "id": "77",
+    "slug": "travel-food",
+    "name": "Travel &amp; Food",
+    "parent": null,
+    "description": ""
+  },
+  {
+    "id": "1",
+    "slug": "uncategorized",
+    "name": "Uncategorized",
+    "parent": null,
+    "description": ""
+  },
+  {
+    "id": "60",
+    "slug": "comissioned",
+    "name": "Comissioned",
+    "parent": "others",
+    "description": ""
+  },
+  {
+    "id": "66",
+    "slug": "europe",
+    "name": "Europe",
+    "parent": "places",
+    "description": ""
+  },
+  {
+    "id": "67",
+    "slug": "india",
+    "name": "India",
+    "parent": "places",
+    "description": ""
+  },
+  {
+    "id": "64",
+    "slug": "interviews",
+    "name": "Interviews",
+    "parent": "people",
+    "description": ""
+  },
+  {
+    "id": "61",
+    "slug": "long-form-essays",
+    "name": "Long Form &amp; Essays",
+    "parent": "others",
+    "description": ""
+  },
+  {
+    "id": "62",
+    "slug": "miscellaneous",
+    "name": "Miscellaneous",
+    "parent": "others",
+    "description": ""
+  }
+]
