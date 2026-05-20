@@ -7,34 +7,34 @@ const slides = [
   {
     heading: "24 hours in Mysuru",
     desc: "Mysuru Palace to Kukkarahalli Kere, chow chow bath and filter coffee to baklava buns and kombucha...",
-    bg: "https://saritharao.com/wp-content/uploads/2022/03/24hoursinmysuru.png",
+    bg: "/wp-content/uploads/2022/03/24hoursinmysuru.png",
     image:
-      "https://saritharao.com/wp-content/uploads/2022/03/CleanShot-2022-03-05-at-20.24.40@2x.png",
+      "/wp-content/uploads/2022/03/CleanShot-2022-03-05-at-20.24.40@2x.png",
     link: "https://natgeotraveller.in/24-hours-in-mysuru/",
   },
   {
     heading: "Chennai misses its beloved Mylapore street festival",
     desc: "The annual street festival celebrating music, art and culture has been cancelled...",
-    bg: "https://saritharao.com/wp-content/uploads/2022/03/mylapore.png",
+    bg: "/wp-content/uploads/2022/03/mylapore.png",
     image:
-      "https://saritharao.com/wp-content/uploads/2022/03/ANI-20220107122-0_1643203630052_1643203698357.png",
+      "/wp-content/uploads/2022/03/ANI-20220107122-0_1643203630052_1643203698357.png",
     link: "https://lifestyle.livemint.com/fashion/trends/is-the-classic-men-s-suit-dead-zegna-has-an-answer-111646396819106.html",
   },
   {
     heading:
       "A Chennai apartment is a modern foreground to the greenery outside",
     desc: "A seamless mid-century modern inspired Chennai apartment by architect Faisal Manzur",
-    bg: "https://saritharao.com/wp-content/uploads/2022/04/chennai-apartment-blur.png",
+    bg: "/wp-content/uploads/2022/04/chennai-apartment-blur.png",
     image:
-      "https://saritharao.com/wp-content/uploads/2022/04/chenna-apartment.png",
+      "/wp-content/uploads/2022/04/chenna-apartment.png",
     link: "https://www.beautifulhomes.com/living/homes/a-chennai-apartment-is-a-modern-foreground-to-the-greenery-outside.html",
   },
   {
     heading: "46 years of 'Manmatha Leelai'",
     desc: "K. Balachander's 1976 Tamil movie set a benchmark with adult content in Tamil cinema",
-    bg: "https://saritharao.com/wp-content/uploads/2022/04/manmatha-blur.png",
+    bg: "/wp-content/uploads/2022/04/manmatha-blur.png",
     image:
-      "https://saritharao.com/wp-content/uploads/2022/04/manmatha.png",
+      "/wp-content/uploads/2022/04/manmatha.png",
     link: "https://www.ottplay.com/features/46-years-of-manmatha-leelai/45fbdb13f1744",
   },
 ];
