@@ -1,7 +1,7 @@
 import ImageWithLoader from "@/components/ImageWithLoader";
 import ContactForm from "@/components/ContactForm";
 
-const CLIENT_LOGO_BASE = "https://saritharao.com/wp-content/uploads/2020/12/";
+const CLIENT_LOGO_BASE = "/wp-content/uploads/2020/12/";
 
 const clientLogos = [
   ["Scroll_India_Logo.png", "download-4-1.png", "logos-US_hero-blk.png", "dwlLogo.png"],
@@ -17,7 +17,7 @@ export default function AboutPage() {
         className="relative flex min-h-[420px] items-end overflow-hidden bg-cover bg-center pb-16"
         style={{
           backgroundImage:
-            'linear-gradient(90deg, rgba(244,240,233,0.9) 30%, rgba(244,240,233,0) 100%), url("https://saritharao.com/wp-content/uploads/2020/12/florist-11.jpg")',
+            'linear-gradient(90deg, rgba(244,240,233,0.9) 30%, rgba(244,240,233,0) 100%), url("/wp-content/uploads/2020/12/florist-11.jpg")',
         }}
       >
         <div className="relative z-10 mx-auto w-full max-w-7xl px-6">
@@ -32,7 +32,7 @@ export default function AboutPage() {
         <div className="grid items-start gap-12 md:grid-cols-2">
           <div>
             <ImageWithLoader
-              src="https://saritharao.com/wp-content/uploads/2021/03/sarithaRao-profile-2-e1614758074123.jpg"
+              src="/wp-content/uploads/2021/03/sarithaRao-profile-2-e1614758074123.jpg"
               alt="Saritha Rao Rayachoti"
               className="w-full rounded-3xl object-cover"
             />
@@ -63,7 +63,7 @@ export default function AboutPage() {
         className="relative min-h-[400px] bg-cover bg-center py-20"
         style={{
           backgroundImage:
-            'linear-gradient(90deg, rgba(213,222,232,1) 30%, rgba(213,222,232,0) 100%), url("https://saritharao.com/wp-content/uploads/2020/12/florist-12.jpg")',
+            'linear-gradient(90deg, rgba(213,222,232,1) 30%, rgba(213,222,232,0) 100%), url("/wp-content/uploads/2020/12/florist-12.jpg")',
         }}
       >
         <div className="relative z-10 mx-auto max-w-7xl px-6">

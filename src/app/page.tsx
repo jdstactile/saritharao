@@ -22,8 +22,7 @@ const clientLogos = {
   ],
 };
 
-const CLIENT_LOGO_BASE =
-  "https://saritharao.com/wp-content/uploads/2020/12/";
+const CLIENT_LOGO_BASE = "/wp-content/uploads/2020/12/";
 
 export default function Home() {
   return (
@@ -63,7 +62,7 @@ export default function Home() {
               >
                 <div className="overflow-hidden rounded-2xl shadow-lg transition-shadow group-hover:shadow-xl">
                   <ImageWithLoader
-                    src="https://saritharao.com/wp-content/uploads/2021/09/CleanShot-2021-09-02-at-22.00.50@2x.png"
+                    src="/wp-content/uploads/2021/09/CleanShot-2021-09-02-at-22.00.50@2x.png"
                     alt="The Last Day Of School"
                     className="w-full object-cover transition-transform group-hover:scale-[1.02]"
                   />
@@ -99,7 +98,7 @@ export default function Home() {
           className="absolute inset-0 bg-cover bg-center bg-fixed opacity-20"
           style={{
             backgroundImage:
-              "url(https://saritharao.com/wp-content/uploads/2021/09/home-profile_background-v2.png)",
+              "url(/wp-content/uploads/2021/09/home-profile_background-v2.png)",
           }}
         />
 
@@ -130,7 +129,7 @@ export default function Home() {
           <ScrollAnimate delay={2}>
             <div className="flex justify-center">
               <ImageWithLoader
-                src="https://saritharao.com/wp-content/uploads/2021/09/home-profile-v2.png"
+                src="/wp-content/uploads/2021/09/home-profile-v2.png"
                 alt="Saritha Rao Rayachoti"
                 className="w-[90%] object-cover"
                 style={{ borderRadius: "500px" }}

@@ -138,7 +138,7 @@ export default function Header() {
           <div className="w-1/4 shrink-0">
             <Link href="/">
               <img
-                src="https://saritharao.com/wp-content/uploads/2021/09/srr-logo-v3.png"
+                src="/wp-content/uploads/2021/09/srr-logo-v3.png"
                 alt="Saritha Rao Rayachoti"
                 className="max-w-[70%]"
               />

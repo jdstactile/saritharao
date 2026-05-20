@@ -8,7 +8,7 @@ export default function CategoryHeader({ title }: CategoryHeaderProps) {
       className="relative flex min-h-[340px] items-center justify-center overflow-hidden bg-cover bg-fixed bg-center"
       style={{
         backgroundImage:
-          'url("https://saritharao.com/wp-content/uploads/2020/12/florist-12.jpg")',
+          'url("/wp-content/uploads/2020/12/florist-12.jpg")',
       }}
     >
       {/* Gradient overlay */}
